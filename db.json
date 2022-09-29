@@ -1,7 +1,7 @@
 {
-user:{
-name:"Mohsin Wajid",
-id:1,
-class :"12th"
-}
+"user":{
+  "name":"Mohsin Wajid",
+  "id":1,
+  "class" :"12th"
+  }
 }
